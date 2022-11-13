@@ -1,4 +1,4 @@
-# FUNX
+# FUNXX
 
 State manager and app logic building functional programming lib, based on ideas:
 - strictness
@@ -11,7 +11,7 @@ I will provide detailed documentation as I elaborate and hone it.
 
 ## Installation
 
-`npm install funx`
+`npm install funxx`
 
 ## Documentation
 
